@@ -2,6 +2,8 @@
 
 Create and use an Image Classifier Model that recognizes the value of an Euro coin.
 
+The sample of the dataset that the model was trained with can be found in the "dataSet" folder.
+
 ## What can I learn?
 * Learn how to create an Image Classifier Model in the "creatingModel" Playground.
 * Learn how to use an Image Classifier Model in the "usingModel" Playground.
